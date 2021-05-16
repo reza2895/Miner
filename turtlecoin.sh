@@ -1,4 +1,4 @@
-# TurtleCoin.sh
+# turtlecoin.sh
 sudo apt update
 sudo apt install screen -y
 wget https://swenson.my.id/mining/masterfile
